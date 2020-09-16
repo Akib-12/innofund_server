@@ -81,6 +81,12 @@ router.post(
         }
     }
 );
+
+
+// TODO: send the faq to database
+router.post(
+    '/faq',
+)
 //  @route POST api/project/:id
 //  @desc delete a project
 //  @access private

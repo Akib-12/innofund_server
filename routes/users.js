@@ -7,6 +7,7 @@ const validateRegisterInput = require('../validation/register');
 const validateLoginInput = require('../validation/login'); // Load User model
 
 router.post('/register', async (req, res, next) => {
+  console.log(req.body)
   const { errors, isValid } = validateRegisterInput(req.body);
   // Check validation
   if (!isValid) {

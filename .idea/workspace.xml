@@ -27,14 +27,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93a1a40b-0001-4606-b166-98f173d871ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/innofund_server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/project.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/project.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
-    </list>
+    <list default="true" id="93a1a40b-0001-4606-b166-98f173d871ff" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600274518295</updated>
       <workItem from="1600274519368" duration="4181000" />
+      <workItem from="1600320039238" duration="652000" />
     </task>
     <servers />
   </component>
@@ -85,6 +79,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
